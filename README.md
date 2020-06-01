@@ -17,8 +17,12 @@ Data obtained from http://web.mta.info/developers/turnstile.html.
 C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS
 
 
-C/A      = Control Area (A002)/
-UNIT     = Remote Unit for a station (R051)\ 
+C/A      = Control Area (A002). 
+
+C/A      = Control Area (A002). 
+
+UNIT     = Remote Unit for a station (R051)  
+
 SCP      = Subunit Channel Position represents an specific address for a device (02-00-00)   
 
 STATION  = Represents the station name the device is located at
