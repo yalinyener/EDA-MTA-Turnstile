@@ -21,8 +21,7 @@ C/A      = Control Area (A002)<br />
 UNIT     = Remote Unit for a station (R051)<br />
 SCP      = Subunit Channel Position represents an specific address for a device (02-00-00)<br />
 STATION  = Represents the station name the device is located at.<br /> 
-LINENAME = Represents all train lines that can be boarded at this station
-           Normally lines are represented by one character.  LINENAME 456NQR repersents train server for 4, 5, 6, N, Q, and R trains.<br />
+LINENAME = Represents all train lines that can be boarded at this station. Normally lines are represented by one character. LINENAME 456NQR repersents train server for 4, 5, 6, N, Q, and R trains.<br />
 DIVISION = Represents the Line originally the station belonged to BMT, IRT, or IND.<br />     
 DATE     = Represents the date (MM-DD-YY).<br />
 TIME     = Represents the time (hh:mm:ss) for a scheduled audit event.<br />
