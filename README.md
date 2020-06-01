@@ -1,7 +1,3 @@
-# EDA-Projects
-Exploratory Data Analysis Projects
+# Exploratory Data Analysis (EDA) Projects for MTA Turnstile Data
 
-– Wikipedia: Exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods.
-
-
-This repo contains my personal works about Exploratory Data Analysis projects.
+This repo contains Project-01 at Istanbul Data Science Academy.
