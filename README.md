@@ -9,6 +9,10 @@ Exploratory Data Analysis (EDA) is an approach to analysing data set to summaris
 ## Objective and Goal:
 
 Optimize the placement of street team that collect email address for free tickets of WomenTechWomenYes(WTWY) annual gala.
+* Finding the overall busiest stations.
+* Finding day with highest traffic per station.
+* Finding time period of day with highest traffic per station.
+
  
 ## About MTA: 
 
@@ -30,7 +34,7 @@ Data obtained from http://web.mta.info/developers/turnstile.html.
 
 The data below shows the entry/exit register values for one turnstile at control area (A002) from 09/27/14 at 00:00 hours to 09/29/14 at 00:00 hours
 
-C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS.<br>
+### C/A,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS.<br>
 A002,R051,02-00-00,LEXINGTON AVE,456NQR,BMT,09-27-14,00:00:00,REGULAR,0004800073,0001629137<br>
 A002,R051,02-00-00,LEXINGTON AVE,456NQR,BMT,09-27-14,04:00:00,REGULAR,0004800125,0001629149<br>
 A002,R051,02-00-00,LEXINGTON AVE,456NQR,BMT,09-27-14,08:00:00,REGULAR,0004800146,0001629162<br>
